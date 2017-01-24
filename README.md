@@ -1,7 +1,6 @@
-### Template for talks
+### Reproducibility case-study
 
-This template is provided under the [Creative Commons CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
-
+A talk for: https://bids.berkeley.edu/events/practice-reproducible-research-case-studies-and-lessons-data-intensive-sciences
 
 ### Remark.js LICENSE
 
