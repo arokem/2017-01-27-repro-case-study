@@ -18,7 +18,7 @@ layout: true
 
 ---
 
-# Slide title
+# Epilogue
 
 --
 
@@ -26,7 +26,8 @@ layout: true
 
 --
 
-- Bullet 2
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s how we treat &quot;methodological terrorists&quot; around these parts: <a href="https://t.co/D1BcMWR9L0">https://t.co/D1BcMWR9L0</a></p>&mdash; Ariel Rokem (@arokem) <a href="https://twitter.com/arokem/status/780172911776706560">September 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
