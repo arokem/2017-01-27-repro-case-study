@@ -7,7 +7,7 @@ class: center, middle
 ## Ariel Rokem
 ### The University of Washington eScience Institute
 
-<small>Follow along at: <a href="https://arokem.github.io/talk-template">https://arokem.github.io/talk-template</small>
+<small>Follow along at: <a href="https://arokem.github.io/2017-01-27-repro-case-study/">https://arokem.github.io/2017-01-27-repro-case-study/</small>
 
 ---
 
@@ -18,15 +18,31 @@ layout: true
 
 ---
 
+### White matter: the brain's super-highways
+
+<div style="position: absolute; top: 150px; left: 20px;" >
+  <image src="./images/optic-radiation-postmortem.png" style="background:none; border:none; box-shadow:none;" height="400">
+</div>
+
+--
+
+<div style="position: absolute; top: 150px; left: 350px;" >
+  <image src="./images/nerve-fiber.png" style="background:none; border:none; box-shadow:none;" height="400">
+</div>
+
+
+---
+
 ### Diffusion MRI
 
 <video preload="auto" width="70%" height="auto" data-setup="{}" autoplay loop ><source src="./videos/dMRI-signal-movie.mp4"/></video>
 
 ---
 
-### Human white matter
+### Tractography
 
 <video preload="auto" width="60%" height="auto" data-setup="{}" autoplay loop ><source src="./videos/cc_tube_movie.mov"/> </video>
+
 
 ---
 
@@ -86,25 +102,53 @@ layout: center, middle
 
 
 <div style="position: absolute; left: 500px; top: 650px;" >
-  <small>Rokem et al. (2015)</small>
+  <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123272"><small>Rokem et al. (2015)</a></small>
 </div>
 
-<image src="images/rokem_rrmse.png" height="30%">
+<image src="images/rokem2015-fig6.png" height="25%">
 
 ---
 
-
-# Epilogue
-
---
-
-- Bullet 1
-
---
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s how we treat &quot;methodological terrorists&quot; around these parts: <a href="https://t.co/D1BcMWR9L0">https://t.co/D1BcMWR9L0</a></p>&mdash; Ariel Rokem (@arokem) <a href="https://twitter.com/arokem/status/780172911776706560">September 25, 2016</a></blockquote>
+layout: true
 
 ---
+
+<div style="position: absolute; top: 10px; left: 20px;" >
+  <image src="./images/arokem.png" style="background:none; border:none; box-shadow:none;" height="600">
+</div>
+
+---
+
+# Neuroimaging in Python
+
+--
+
+<div style="position: absolute; left: 100px; top: 130px;">
+<a href="http://dipy.org"><image src="images/dipy-logo.png"  height="8%"></a>
+</div>
+
+--
+
+<div style="position: absolute; top: 250px; left: 20px;" >
+  <image src="./images/dipy_example_xval.png" style="background:none; border:none; box-shadow:none;" height="400">
+</div>
+
+---
+
+<div style="position: absolute; top: 10px; left: 20px;" >
+  <image src="./images/arokem.png" style="background:none; border:none; box-shadow:none;" height="600">
+</div>
+
+---
+
+### Cloud computing enables reproducibility
+
+<image src="images/AWS.png" height="25%">
+
+<image src="images/spark-logo-trademark.png" height="200px">
+
+
+[K-fold cross-validation on 900 brains](https://github.com/arokem/dki-accuracy-reliability)
 
 ---
 class: center
