@@ -92,6 +92,7 @@ layout: true
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
 
 ---
+
 layout: center, middle
 
 # Which model should we use?
